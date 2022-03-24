@@ -9,11 +9,11 @@ We will build a React application in that there is Login/Logout, Register, Home,
 
 
 # React js Laravel Auth:
-## Laravel 9
-## React js 17.0.2
-## bootstrap
-## react-router-domv6
-## axios
+    - Laravel 9
+    - React js 17.0.2
+    - bootstrap
+    - react-router-domv6
+    - axios
 
 
 # Login page
