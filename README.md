@@ -17,15 +17,15 @@ We will build a React application in that there is Login/Logout, Register, Home,
 
 
 # Login page
-![alt text](https://github.com/AjayYadavAi/react-js-authentication-laravel/blob/main/login.png?raw=true)
+![alt text](https://github.com/AjayYadavAi/react-js-authentication-laravel/blob/master/login.png?raw=true)
 
 
 # Register page
-![alt text](https://github.com/AjayYadavAi/react-js-authentication-laravel/blob/main/register.png?raw=true)
+![alt text](https://github.com/AjayYadavAi/react-js-authentication-laravel/blob/master/register.png?raw=true)
 
 
 # Dashboard page
-![alt text](https://github.com/AjayYadavAi/react-js-authentication-laravel/blob/main/dashboard.png?raw=true)
+![alt text](https://github.com/AjayYadavAi/react-js-authentication-laravel/blob/master/dashboard.png?raw=true)
 
 
 
